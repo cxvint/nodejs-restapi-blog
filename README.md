@@ -2,5 +2,4 @@
 
 ## npm start - запуск клиента
 
-## heroku
-https://pern-blog-api.herokuapp.com/
+## heroku - https://pern-blog-api.herokuapp.com/
